@@ -96,36 +96,6 @@ The Metro bundler should automatically start when you run the app. If it doesn't
 npx react-native start
 ```
 
-## Project Structure
-
-A brief explanation of the project's folder structure:
-
-```
-/android        - Android-specific code
-/ios            - iOS-specific code
-/src            - Contains the app's source code
-    /components - Reusable components
-    /screens    - Screens for the app
-    /redux      - Redux-related files (reducers, actions, store)
-    /assets     - Static assets (images, fonts, etc.)
-/test           - Contains test files
-```
-
-## Dependencies
-
-List the key dependencies your app uses. You can generate this with:
-
-```bash
-npm list --depth=0
-```
-
-### Example:
-
-- React: `18.0.0`
-- React Native: `0.74.1`
-- Redux: `4.2.0`
-- React Navigation: `6.x`
-
 ## Configuration
 
 ### Android
