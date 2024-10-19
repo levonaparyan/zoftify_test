@@ -1,20 +1,6 @@
 
 # Zoftify Test
 
-## Description
-
-A brief description of your project, including its purpose and what it aims to achieve.
-
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Running the App](#running-the-app)
-3. [Project Structure](#project-structure)
-4. [Dependencies](#dependencies)
-5. [Configuration](#configuration)
-6. [Contributing](#contributing)
-7. [License](#license)
-
 ## Installation
 
 ### Prerequisites
